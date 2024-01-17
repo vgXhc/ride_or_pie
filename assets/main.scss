@@ -1,0 +1,9 @@
+@import "minima";
+
+.site-title::before {
+    content: url("/assets/img/cropped-Mouse-drawing-small.jpg");
+    display: inline-block;
+    position: relative;
+    width: 5px;
+    top: 10px;
+}
