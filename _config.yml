@@ -29,7 +29,7 @@ url: vgxhc.github.io # the base hostname & protocol for your site
 github_username:  vgxhc
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
