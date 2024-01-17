@@ -16,3 +16,5 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+Let's try adding an image ![image](assets/img/cropped-Mouse-drawing-small.jpg)
