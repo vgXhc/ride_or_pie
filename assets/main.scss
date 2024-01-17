@@ -4,9 +4,9 @@
 @import "minima";
 
 .site-title::before {
-	content: url("/ride_or_pie/assets/img/cropped-Mouse-drawing-small.jpg");
+	content: url("/ride_or_pie/assets/img/cropped-Mouse-drawing-32px.png");
 	display: inline-block;
 	position: relative;
-	width: 75px;
+	height: 35px;
 	top: 10px;
 }
